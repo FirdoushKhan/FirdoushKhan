@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FirdoushKhan/FirdoushKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Firdoush Khan
 
-Here are some ideas to get you started:
+### 📊 Data Analyst | SQL | Python | Power BI | Excel | Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.
+
+[![Portfolio](https://quanty-muse.lovable.app)](https://quanty-muse.lovable.app/?utm_source=chatgpt.com)
+[![LinkedIn](](https://www.linkedin.com/in/md-firdoush-hassan-khan-3a976b388/?isSelfProfile=false)
+
+</div>
+
+---
+
+## 🟢 Open to Work
+
+**Data Analyst • Business Intelligence • SQL Analyst • Power BI Analyst • Remote / India**
+
+---
+
+# 👨‍💻 About Me
+
+```python
+firdoush = {
+    "role": "Data Analyst",
+    "location": "India 🇮🇳",
+
+    "core_skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI",
+        "Tableau"
+    ],
+
+    "data_analysis": [
+        "Data Cleaning",
+        "Exploratory Data Analysis",
+        "KPI Analysis",
+        "Business Analysis",
+        "Data Visualization"
+    ],
+
+    "python_tools": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+    ],
+
+    "business_intelligence": [
+        "Power BI",
+        "DAX",
+        "Power Query",
+        "Excel"
+    ],
+
+    "currently_learning": [
+        "Advanced SQL",
+        "Power BI & DAX",
+        "Statistics",
+        "Advanced Python"
+    ]
+}
