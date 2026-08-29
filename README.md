@@ -4,10 +4,15 @@
 
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel | Tableau
 
-Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.
+**Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.**
 
-[![Portfolio](https://quanty-muse.lovable.app)](https://quanty-muse.lovable.app/?utm_source=chatgpt.com)
-[![LinkedIn](](https://www.linkedin.com/in/md-firdoush-hassan-khan-3a976b388/?isSelfProfile=false)
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-purple?style=for-the-badge">
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
 </div>
 
@@ -21,12 +26,16 @@ Turning raw data into meaningful insights, interactive dashboards, and smarter b
 
 # 👨‍💻 About Me
 
+I'm a Data Analyst focused on transforming raw data into actionable business insights.
+
+I work with **SQL, Python, Excel, Power BI, and Tableau** to clean data, analyze trends, build dashboards, track KPIs, and support data-driven decision making.
+
 ```python
 firdoush = {
     "role": "Data Analyst",
     "location": "India 🇮🇳",
 
-    "core_skills": [
+    "skills": [
         "SQL",
         "Python",
         "Excel",
@@ -34,7 +43,7 @@ firdoush = {
         "Tableau"
     ],
 
-    "data_analysis": [
+    "analytics": [
         "Data Cleaning",
         "Exploratory Data Analysis",
         "KPI Analysis",
@@ -42,23 +51,19 @@ firdoush = {
         "Data Visualization"
     ],
 
-    "python_tools": [
+    "python": [
         "Pandas",
         "NumPy",
         "Matplotlib"
     ],
 
-    "business_intelligence": [
-        "Power BI",
+    "power_bi": [
         "DAX",
         "Power Query",
-        "Excel"
-    ],
-
-    "currently_learning": [
-        "Advanced SQL",
-        "Power BI & DAX",
-        "Statistics",
-        "Advanced Python"
+        "Data Modeling",
+        "Dashboard Development"
     ]
 }
+#🎯 My goal: Turn complex datasets into simple, actionable insights that help businesses make better decisions.
+
+<div align="center"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://quanty-muse.lovable.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"> </a> </div>
