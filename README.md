@@ -6,11 +6,11 @@
 
 **Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.**
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://quanty-muse.lovable.app/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-purple?style=for-the-badge">
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/md-firdoush-hassan-khan-3a976b388/?isSelfProfile=false">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
