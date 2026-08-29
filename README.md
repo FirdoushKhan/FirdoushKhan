@@ -66,4 +66,3 @@ firdoush = {
 }
 #🎯 My goal: Turn complex datasets into simple, actionable insights that help businesses make better decisions.
 
-<div align="center"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://quanty-muse.lovable.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"> </a> </div>
