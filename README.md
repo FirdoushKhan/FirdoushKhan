@@ -31,38 +31,113 @@ I'm a Data Analyst focused on transforming raw data into actionable business ins
 I work with **SQL, Python, Excel, Power BI, and Tableau** to clean data, analyze trends, build dashboards, track KPIs, and support data-driven decision making.
 
 ```python
-firdoush = {
-    "role": "Data Analyst",
-    "location": "India 🇮🇳",
+```js
+const firdosh = {
+  name      : "Firdosh Khan",
+  role      : "Data Analyst — SQL · Python · Power BI · Excel · Tableau",
+  location  : "India 🇮🇳  —  open to remote worldwide",
+  education : "B.Tech CSE, 2026 · CGPA 7.8",
 
-    "skills": [
-        "SQL",
-        "Python",
-        "Excel",
-        "Power BI",
-        "Tableau"
+  skills: {
+    analytics : [
+      "Data Analysis",
+      "Exploratory Data Analysis (EDA)",
+      "Data Cleaning",
+      "Data Transformation",
+      "Statistical Analysis",
+      "KPI Analysis",
+      "Business Intelligence",
     ],
 
-    "analytics": [
-        "Data Cleaning",
-        "Exploratory Data Analysis",
-        "KPI Analysis",
-        "Business Analysis",
-        "Data Visualization"
+    sql : [
+      "SQL",
+      "Joins",
+      "Subqueries",
+      "CTEs",
+      "Window Functions",
+      "Aggregations",
+      "Data Extraction",
+      "Query Optimization",
     ],
 
-    "python": [
-        "Pandas",
-        "NumPy",
-        "Matplotlib"
+    python : [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Jupyter Notebook",
+      "Data Cleaning & Analysis",
     ],
 
-    "power_bi": [
-        "DAX",
-        "Power Query",
-        "Data Modeling",
-        "Dashboard Development"
-    ]
-}
+    bi_visualization : [
+      "Power BI",
+      "DAX",
+      "Power Query",
+      "Data Modeling",
+      "Interactive Dashboards",
+      "Tableau",
+      "Data Visualization",
+      "Dashboard Design",
+    ],
+
+    excel : [
+      "Microsoft Excel",
+      "Pivot Tables",
+      "XLOOKUP",
+      "INDEX & MATCH",
+      "Advanced Formulas",
+      "Data Cleaning",
+      "Charts & Dashboards",
+    ],
+
+    ai_tools : [
+      "Generative AI",
+      "Prompt Engineering",
+      "AI-Assisted Data Analysis",
+      "Automated Insights",
+      "AI-Powered Analytics Workflows",
+    ],
+
+    tools : [
+      "Git/GitHub",
+      "Jupyter Notebook",
+      "Power BI",
+      "Tableau",
+      "Microsoft Excel",
+      "Google Sheets",
+    ],
+  },
+
+  // What makes me business-ready 👇
+  strengths : [
+    "Turn raw data into clear, actionable business insights",
+    "Build interactive Power BI and Tableau dashboards",
+    "Use SQL and Python to clean, analyze, and transform data",
+    "Translate complex data into simple business recommendations",
+  ],
+
+  currentlyExploring : [
+    "Advanced Power BI",
+    "DAX",
+    "Advanced SQL",
+    "Python for Data Analytics",
+    "Business Intelligence",
+    "AI-Powered Analytics",
+  ],
+
+  openTo : [
+    "Data Analyst",
+    "Business Analyst",
+    "BI Analyst",
+    "Reporting Analyst",
+    "Data Visualization Analyst",
+    "Data Analyst + AI",
+  ],
+
+  available : "Immediately 🟢",
+};
+```
+
 #🎯 My goal: Turn complex datasets into simple, actionable insights that help businesses make better decisions.
 
