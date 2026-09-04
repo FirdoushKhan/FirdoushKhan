@@ -67,10 +67,10 @@
 </table>
 
 Turning raw data into actionable insights, clear dashboards, and smarter business decisions.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FirdoushKhan/FirdoushKhan/main/dashboard.png" alt="Data Analytics Dashboard" width="100%" />
+  <img src="https://raw.githubusercontent.com/FirdoushKhan/FirdoushKhan/main/Deshbord%20.png" alt="Data Analytics Dashboard" width="100%" />
 </p>
----
 
 ## 🛠️ Skills & Tools
 
