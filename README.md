@@ -75,7 +75,7 @@ I work with **SQL, Python, Excel, Power BI, and Tableau** to clean data, analyze
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/in/md-firdoush-hassan-khan-3a976b388/?isSelfProfile=false)
+- LinkedIn: [LinkedIn link](https://www.linkedin.com/in/md-firdoush-hassan-khan-3a976b388/?isSelfProfile=false)
 - Email: **firdoshkhany2@gmail.com**
 
 <p align="center">
