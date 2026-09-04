@@ -6,7 +6,7 @@
 
 **Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+%7C+MySQL+%7C+PostgreSQL;Python+%7C+Pandas+%7C+NumPy;Excel+%7C+PivotTables+%7C+Power+Query;Power+BI+%7C+DAX+%7C+Data+Modeling;Tableau+%7C+Interactive+Dashboards;Data+Cleaning+%7C+EDA+%7C+KPI+Reporting;Statistics+%7C+A%2FB+Testing+%7C+Hypothesis+Testing;Data+Scientist;Machine+Learning+%7C+Regression+%7C+Classification;Scikit-learn+%7C+Matplotlib+%7C+Seaborn;Data+Visualization+%7C+Business+Insights" alt="Data Analyst and Data Scientist Skills" />
 </p>
 
 <p align="center">
