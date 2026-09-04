@@ -6,10 +6,7 @@
 
 **Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.**
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I%27m+Firdoush+Khan;📊+Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Turning+raw+data+into+meaningful+insights."
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Firdoush+Khan;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Turning+data+into+meaningful+insights." alt="Typing SVG" />
 </p>
 
 <a href="https://quanty-muse.lovable.app/">
