@@ -9,6 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Firdoush+Khan;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Turning+data+into+meaningful+insights." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FirdoushKhan&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views" />
+  <a href="https://github.com/FirdoushKhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/FirdoushKhan?label=Followers&style=flat&color=008CCB&labelColor=555555" alt="GitHub Followers" />
+  </a>
+</p>
+
 <a href="https://quanty-muse.lovable.app/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-purple?style=for-the-badge">
 </a>
