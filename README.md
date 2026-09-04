@@ -99,13 +99,16 @@ Turning raw data into actionable insights, clear dashboards, and smarter busines
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirdoushKhan&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirdoushKhan&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FirdoushKhan&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=FirdoushKhan&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdoushKhan&theme=tokyonight" alt="GitHub Contribution Graph" width="100%" />
+</p>
 ---
 
 ## 🤝 Connect With Me
