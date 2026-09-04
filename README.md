@@ -30,6 +30,59 @@ I'm a Data Analyst focused on transforming raw data into actionable business ins
 
 I work with **SQL, Python, Excel, Power BI, and Tableau** to clean data, analyze trends, build dashboards, track KPIs, and support data-driven decision making.
 
+
+<h1 align="center">Hi 👋, I'm Md Firdoush Hassan Khan</h1>
+<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+## 👨‍💻 About Me
+
+- 📊 Aspiring **Data Analyst** based in India  
+- 🌍 Open to opportunities in **London, UK and Luxembourg**
+- 💡 Interested in sales, marketing, customer and financial analytics  
+- 🌱 Currently improving my SQL, Power BI and Python skills  
+- 📫 Reach me at: **firdoshkhany2@gmail.com**
+
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,excel,git,github" />
+</p>
+
+- **Data Analysis:** SQL, Excel, Python, Pandas, NumPy  
+- **Business Intelligence:** Power BI, DAX, Power Query  
+- **Databases:** MySQL, PostgreSQL  
+- **Core Skills:** Data Cleaning, EDA, Dashboards, KPI Reporting  
+
+## 📌 Featured Projects
+
+| Project | Tools | What I Did |
+|---|---|---|
+| Sales Performance Dashboard | SQL, Power BI | Analysed sales, revenue, profit and regional KPIs |
+| E-Commerce Analytics | SQL, Python, Power BI | Found customer and product performance insights |
+| Customer Churn Analysis | SQL, Python, Power BI | Identified churn patterns and retention opportunities |
+| HR Analytics Dashboard | Excel, SQL, Power BI | Analysed employee attrition and workforce trends |
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firdoush Khan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirdoushKhan&theme=tokyonight" height="165" />
+</p>
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/in/md-firdoush-hassan-khan-3a976b388/?isSelfProfile=false)
+- Email: **firdoshkhany2@gmail.com**
+
+<p align="center">
+  <i>“Turning data into clear business decisions.”</i>
+</p>
+
+
 ```python
 ```js
 const firdosh = {
