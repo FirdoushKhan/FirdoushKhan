@@ -6,7 +6,7 @@
 
 **Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Firdoush+Khan;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Turning+data+into+meaningful+insights." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 <p align="center">
