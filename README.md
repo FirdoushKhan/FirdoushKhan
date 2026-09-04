@@ -5,6 +5,12 @@
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel | Tableau
 
 **Turning raw data into meaningful insights, interactive dashboards, and smarter business decisions.**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I%27m+Firdoush+Khan;📊+Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Turning+raw+data+into+meaningful+insights."
+    alt="Typing animation"
+  />
+</p>
 
 <a href="https://quanty-muse.lovable.app/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-purple?style=for-the-badge">
